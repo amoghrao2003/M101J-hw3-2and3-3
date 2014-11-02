@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.mongodb</groupId>
-    <artifactId>M101J</artifactId>
+    <artifactId>M101J_3.2_3.3</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -18,7 +18,7 @@
         <dependency>
             <groupId>spark</groupId>
             <artifactId>spark</artifactId>
-            <version>0.9.9.4-SNAPSHOT</version>
+            <version>0.9.9.3-SNAPSHOT</version>
         </dependency>
 
         <dependency>
